@@ -4,4 +4,5 @@ for recording daily task and time
 still in development
 
 
-#LICENSE
+## License
+[MIT License](LICENSE)
